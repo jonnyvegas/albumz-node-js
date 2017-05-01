@@ -1,0 +1,19 @@
+.albums img, .album img{
+	width: 100%;
+	border: 2px white solid;
+}
+
+.albums img:hover {
+	opacity: 0.7;
+	cursor: pointer;
+}
+
+.albums h4{
+	magin-bottom: 0;
+}
+
+footer {
+	margin-top: 40px;
+	border-top: solid 1px;
+	padding-top; 20px;
+}

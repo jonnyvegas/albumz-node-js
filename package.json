@@ -1,0 +1,30 @@
+{
+  "name": "albumz",
+  "version": "1.0.0",
+  "description": "Music Album Manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Villegas",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.1",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "firebase": "^3.9.0",
+    "morgan": "*",
+    "multer": "*",
+    "path": "*"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/jonnyvegas/albumz.git"
+}
+
+}
